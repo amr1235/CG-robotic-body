@@ -1,5 +1,5 @@
 # CG-robotic-body
-Robotic Body and Camera movement
+Robotic Body and Camera movement Using OpenGL
 
 ## Discussion
 * We used the upper part of keyboard (Q → I) to control the left arm.
